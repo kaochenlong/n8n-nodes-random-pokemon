@@ -1,21 +1,28 @@
 const pokemonData = require("./pokemonData.json")
 
+const shuffleArray = (array) => {
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[array[i], array[j]] = [array[j], array[i]]
+  }
+}
+
 class RandomPokemon {
   constructor() {
     this.description = {
-      displayName: "Random Pokemon",
+      displayName: "Random Pokémon",
       name: "randomPokemon",
       group: ["transform"],
       version: 1,
-      description: "Generate random Pokemon data",
+      description: "Generate random Pokémon data",
       defaults: {
-        name: "Random Pokemon",
+        name: "Random Pokémon",
       },
       inputs: ["main"],
       outputs: ["main"],
       properties: [
         {
-          displayName: "Number of Pokemon",
+          displayName: "Number of Pokémon",
           name: "numberOfPokemon",
           type: "number",
           default: 1,
@@ -30,19 +37,9 @@ class RandomPokemon {
     const items = []
     const availablePokemon = [...pokemonData]
 
-    for (let i = 0; i < num; i++) {
-      if (availablePokemon.length === 0) {
-        break
-      }
-
-      const randomIndex = Math.floor(Math.random() * availablePokemon.length)
-      const selectedPokemon = availablePokemon.splice(randomIndex, 1)[0]
-
-      items.push({
-        json: selectedPokemon,
-      })
-    }
-
+    shuffleArray(availablePokemon)
+    const selectedPokemon = availablePokemon.slice(0, num)
+    items.push(...selectedPokemon.map((pokemon) => ({ json: pokemon })))
     items.sort((a, b) => a.json.id - b.json.id)
 
     return [items]
