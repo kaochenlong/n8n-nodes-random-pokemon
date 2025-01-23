@@ -1,0 +1,26 @@
+{
+  "name": "n8n-nodes-random-pokemon",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {},
+  "homepage": "",
+  "keywords": [
+    "n8n-community-node-package",
+    "n8n",
+    "pokemon",
+    "node"
+  ],
+  "author": "Kao Chien Lung <eddie@5xcampus.com>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kaochenlong/n8n-nodes-random-pokemon.git"
+  },
+  "license": "MIT",
+  "description": "A custom n8n node that generates random Pokémon data",
+  "n8n": {
+    "credentials": [],
+    "nodes": [
+      "./nodes/RandomPokemon.node.js"
+    ]
+  }
+}
