@@ -21,13 +21,13 @@
   },
   {
     "id": 3,
-    "name": "超級牆",
-    "type": ["岩石"],
-    "weight": 120.5,
-    "height": 1.4,
-    "hp": 70,
-    "attack": 45,
-    "defense": 230
+    "name": "焰后蜥",
+    "type": ["火", "毒"],
+    "weight": 22.2,
+    "height": 1.2,
+    "hp": 68,
+    "attack": 64,
+    "defense": 60
   },
   {
     "id": 4,
@@ -181,7 +181,7 @@
   },
   {
     "id": 19,
-    "name": "巴大蝴",
+    "name": "巴大蝶",
     "type": ["蟲", "飛行"],
     "weight": 32.0,
     "height": 1.1,
@@ -281,13 +281,13 @@
   },
   {
     "id": 29,
-    "name": "火箭隊鼠",
+    "name": "樹枕尾熊",
     "type": ["一般"],
-    "weight": 3.2,
-    "height": 0.2,
-    "hp": 25,
-    "attack": 35,
-    "defense": 35
+    "weight": 19.9,
+    "height": 0.4,
+    "hp": 65,
+    "attack": 115,
+    "defense": 65
   },
   {
     "id": 30,
@@ -381,7 +381,7 @@
   },
   {
     "id": 39,
-    "name": "聯盟鬼",
+    "name": "巨金怪",
     "type": ["鬼", "岩石"],
     "weight": 155.0,
     "height": 1.3,
@@ -421,12 +421,92 @@
   },
   {
     "id": 43,
-    "name": "鋼鐵蝸牛",
+    "name": "大鋼蛇",
     "type": ["鋼", "岩石"],
     "weight": 380.0,
     "height": 2.0,
     "hp": 60,
     "attack": 60,
     "defense": 180
+  },
+  {
+    "id": 44,
+    "name": "卡比獸",
+    "type": ["一般"],
+    "weight": 460.0,
+    "height": 2.1,
+    "hp": 160,
+    "attack": 110,
+    "defense": 65
+  },
+  {
+    "id": 45,
+    "name": "黑魯加",
+    "type": ["惡", "火"],
+    "weight": 35.0,
+    "height": 1.4,
+    "hp": 75,
+    "attack": 90,
+    "defense": 50
+  },
+  {
+    "id": 46,
+    "name": "電龍",
+    "type": ["電"],
+    "weight": 61.5,
+    "height": 1.4,
+    "hp": 90,
+    "attack": 75,
+    "defense": 85
+  },
+  {
+    "id": 47,
+    "name": "暴飛龍",
+    "type": ["龍", "飛行"],
+    "weight": 102.6,
+    "height": 1.5,
+    "hp": 95,
+    "attack": 135,
+    "defense": 80
+  },
+  {
+    "id": 48,
+    "name": "美納斯",
+    "type": ["水"],
+    "weight": 162.0,
+    "height": 6.2,
+    "hp": 95,
+    "attack": 60,
+    "defense": 79
+  },
+  {
+    "id": 49,
+    "name": "路卡利歐",
+    "type": ["格鬥", "鋼"],
+    "weight": 54.0,
+    "height": 1.2,
+    "hp": 70,
+    "attack": 110,
+    "defense": 70
+  },
+  {
+    "id": 50,
+    "name": "仙子伊布",
+    "type": ["妖精"],
+    "weight": 23.5,
+    "height": 1.0,
+    "hp": 95,
+    "attack": 65,
+    "defense": 65
+  },
+  {
+    "id": 51,
+    "name": "甲賀忍蛙",
+    "type": ["水", "惡"],
+    "weight": 40.0,
+    "height": 1.5,
+    "hp": 72,
+    "attack": 95,
+    "defense": 67
   }
 ]

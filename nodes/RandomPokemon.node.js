@@ -28,15 +28,22 @@ class RandomPokemon {
   async execute() {
     const num = this.getNodeParameter("numberOfPokemon", 0)
     const items = []
+    const availablePokemon = [...pokemonData]
 
     for (let i = 0; i < num; i++) {
-      const randomIndex = Math.floor(Math.random() * pokemonData.length)
-      const selectedPokemon = pokemonData[randomIndex]
+      if (availablePokemon.length === 0) {
+        break
+      }
+
+      const randomIndex = Math.floor(Math.random() * availablePokemon.length)
+      const selectedPokemon = availablePokemon.splice(randomIndex, 1)[0]
 
       items.push({
         json: selectedPokemon,
       })
     }
+
+    items.sort((a, b) => a.json.id - b.json.id)
 
     return [items]
   }
