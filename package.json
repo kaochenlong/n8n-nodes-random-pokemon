@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-random-pokemon",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "main": "index.js",
   "scripts": {},
   "homepage": "",
@@ -24,3 +24,4 @@
     ]
   }
 }
+

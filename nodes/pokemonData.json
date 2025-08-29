@@ -7,7 +7,10 @@
     "height": 0.7,
     "hp": 45,
     "attack": 49,
-    "defense": 49
+    "defense": 49,
+    "speed": 45,
+    "color": "綠",
+    "description": "出生後會有一段時間從背上的種子得到營養並且長大。"
   },
   {
     "id": 2,
@@ -17,7 +20,10 @@
     "height": 0.6,
     "hp": 39,
     "attack": 52,
-    "defense": 43
+    "defense": 43,
+    "speed": 65,
+    "color": "紅",
+    "description": "牠的尾巴尖端燃燒著火焰。如果牠很健康，火焰就會猛烈地燃燒。"
   },
   {
     "id": 3,
@@ -27,7 +33,10 @@
     "height": 1.2,
     "hp": 68,
     "attack": 64,
-    "defense": 60
+    "defense": 60,
+    "speed": 80,
+    "color": "紅",
+    "description": "用強力的雙臂甩動對手，威力足以把汽車拋到遠處。"
   },
   {
     "id": 4,
@@ -37,7 +46,10 @@
     "height": 0.3,
     "hp": 55,
     "attack": 55,
-    "defense": 50
+    "defense": 50,
+    "speed": 55,
+    "color": "褐",
+    "description": "基因不太穩定的寶可夢。會因為周圍環境的不同而出現各種變化。"
   },
   {
     "id": 5,
@@ -47,7 +59,10 @@
     "height": 0.4,
     "hp": 35,
     "attack": 55,
-    "defense": 40
+    "defense": 40,
+    "speed": 90,
+    "color": "黃",
+    "description": "會將尾巴豎起來感覺周圍的動靜。因此在黑暗的地方，千萬不能隨便拉牠的尾巴。"
   },
   {
     "id": 6,
@@ -57,7 +72,10 @@
     "height": 0.5,
     "hp": 44,
     "attack": 48,
-    "defense": 65
+    "defense": 65,
+    "speed": 43,
+    "color": "藍",
+    "description": "在受到攻擊時會縮進殼裡，然後等待機會反擊。"
   },
   {
     "id": 7,
@@ -67,7 +85,10 @@
     "height": 8.8,
     "hp": 35,
     "attack": 80,
-    "defense": 160
+    "defense": 160,
+    "speed": 70,
+    "color": "灰",
+    "description": "身體由岩石組成。隨著年齡增長，身體會變得更加堅硬。"
   },
   {
     "id": 8,
@@ -77,7 +98,10 @@
     "height": 0.3,
     "hp": 40,
     "attack": 60,
-    "defense": 30
+    "defense": 30,
+    "speed": 71,
+    "color": "褐",
+    "description": "在草叢和森林裡尋找蟲子類的寶可夢來吃。"
   },
   {
     "id": 9,
@@ -87,7 +111,10 @@
     "height": 0.5,
     "hp": 50,
     "attack": 75,
-    "defense": 35
+    "defense": 35,
+    "speed": 40,
+    "color": "藍",
+    "description": "花瓣發出可怕的臭氣。臭氣越強烈，花瓣就越健康。"
   },
   {
     "id": 10,
@@ -97,7 +124,10 @@
     "height": 0.3,
     "hp": 30,
     "attack": 56,
-    "defense": 35
+    "defense": 35,
+    "speed": 72,
+    "color": "紫",
+    "description": "警覺性非常高。繁殖力強，傳說在任何地方都能生存。"
   },
   {
     "id": 11,
@@ -107,7 +137,10 @@
     "height": 3.5,
     "hp": 60,
     "attack": 85,
-    "defense": 69
+    "defense": 69,
+    "speed": 80,
+    "color": "紫",
+    "description": "會豎起頭來威嚇對方。長大後的身體會變得非常長。"
   },
   {
     "id": 12,
@@ -117,7 +150,10 @@
     "height": 0.5,
     "hp": 70,
     "attack": 45,
-    "defense": 48
+    "defense": 48,
+    "speed": 35,
+    "color": "粉紅",
+    "description": "在清澈的湖水和溪水中生活。星星閃爍的夜晚會在湖邊跳舞。"
   },
   {
     "id": 13,
@@ -127,7 +163,10 @@
     "height": 0.6,
     "hp": 38,
     "attack": 41,
-    "defense": 40
+    "defense": 40,
+    "speed": 65,
+    "color": "褐",
+    "description": "出生時只有一條尾巴。隨著成長，尾巴會分裂成六條。"
   },
   {
     "id": 14,
@@ -137,7 +176,10 @@
     "height": 1.5,
     "hp": 55,
     "attack": 50,
-    "defense": 45
+    "defense": 45,
+    "speed": 120,
+    "color": "黃",
+    "description": "擁有強大的精神力量。在戰鬥中會用湯匙來增強精神力量。"
   },
   {
     "id": 15,
@@ -147,7 +189,10 @@
     "height": 0.3,
     "hp": 30,
     "attack": 65,
-    "defense": 100
+    "defense": 100,
+    "speed": 40,
+    "color": "紫",
+    "description": "殼非常的堅硬。即使被炸彈擊中，殼也不會破裂。"
   },
   {
     "id": 16,
@@ -157,7 +202,10 @@
     "height": 1.3,
     "hp": 30,
     "attack": 35,
-    "defense": 30
+    "defense": 30,
+    "speed": 80,
+    "color": "紫",
+    "description": "身體幾乎完全由氣體組成。會躲在牆壁或柱子裡，突然出現嚇人。"
   },
   {
     "id": 17,
@@ -167,7 +215,10 @@
     "height": 1.0,
     "hp": 65,
     "attack": 84,
-    "defense": 70
+    "defense": 70,
+    "speed": 78,
+    "color": "藍",
+    "description": "牠的大嘴擁有驚人的破壞力，能輕易咬碎任何東西。"
   },
   {
     "id": 18,
@@ -177,7 +228,10 @@
     "height": 0.3,
     "hp": 45,
     "attack": 60,
-    "defense": 50
+    "defense": 50,
+    "speed": 50,
+    "color": "黃",
+    "description": "牠頭上的毒針非常危險。身體雖小，但會勇敢地對付比自己大的對手。"
   },
   {
     "id": 19,
@@ -187,7 +241,10 @@
     "height": 1.1,
     "hp": 60,
     "attack": 90,
-    "defense": 70
+    "defense": 70,
+    "speed": 70,
+    "color": "白",
+    "description": "翅膀上的鱗粉有毒。如果將鱗粉灑在花朵上，花朵會變得更加鮮豔。"
   },
   {
     "id": 20,
@@ -197,7 +254,10 @@
     "height": 1.5,
     "hp": 60,
     "attack": 110,
-    "defense": 130
+    "defense": 130,
+    "speed": 110,
+    "color": "紫",
+    "description": "會躲在陰影中降低周圍的溫度。牠的出現會讓人感到寒冷。"
   },
   {
     "id": 21,
@@ -207,7 +267,10 @@
     "height": 1.2,
     "hp": 250,
     "attack": 5,
-    "defense": 5
+    "defense": 5,
+    "speed": 50,
+    "color": "粉紅",
+    "description": "性格非常溫和善良。會將自己的蛋分給受傷的人吃。"
   },
   {
     "id": 22,
@@ -217,7 +280,10 @@
     "height": 0.8,
     "hp": 65,
     "attack": 83,
-    "defense": 57
+    "defense": 57,
+    "speed": 105,
+    "color": "黃",
+    "description": "身體被黃黑相間的條紋覆蓋。能放出強烈的閃電。"
   },
   {
     "id": 23,
@@ -227,7 +293,10 @@
     "height": 6.5,
     "hp": 95,
     "attack": 125,
-    "defense": 79
+    "defense": 79,
+    "speed": 81,
+    "color": "藍",
+    "description": "性情暴躁又凶惡。一旦發怒就會在水中狂暴，直到周圍的東西全部毀滅。"
   },
   {
     "id": 24,
@@ -237,7 +306,10 @@
     "height": 0.3,
     "hp": 48,
     "attack": 48,
-    "defense": 48
+    "defense": 48,
+    "speed": 48,
+    "color": "紫",
+    "description": "身體的細胞結構和基因都和水很相似。能變成任何寶可夢。"
   },
   {
     "id": 25,
@@ -247,7 +319,10 @@
     "height": 2.2,
     "hp": 91,
     "attack": 134,
-    "defense": 95
+    "defense": 95,
+    "speed": 80,
+    "color": "橙",
+    "description": "只要不停地飛翔，就能繞地球一周。性情溫和，很少和人類發生衝突。"
   },
   {
     "id": 26,
@@ -257,7 +332,10 @@
     "height": 0.4,
     "hp": 100,
     "attack": 100,
-    "defense": 100
+    "defense": 100,
+    "speed": 100,
+    "color": "粉紅",
+    "description": "只有心地純潔的人才能看到牠。擁有所有寶可夢的基因。"
   },
   {
     "id": 27,
@@ -267,7 +345,10 @@
     "height": 1.3,
     "hp": 60,
     "attack": 115,
-    "defense": 105
+    "defense": 105,
+    "speed": 80,
+    "color": "褐",
+    "description": "用十隻手臂捕拿獵物。假如手臂斷裂，也會立刻重新生長。"
   },
   {
     "id": 28,
@@ -277,7 +358,10 @@
     "height": 0.7,
     "hp": 45,
     "attack": 65,
-    "defense": 34
+    "defense": 34,
+    "speed": 76,
+    "color": "黃",
+    "description": "在海底生活的寶可夢。釋放出的電擊能麻痺對方。"
   },
   {
     "id": 29,
@@ -287,7 +371,10 @@
     "height": 0.4,
     "hp": 65,
     "attack": 115,
-    "defense": 65
+    "defense": 65,
+    "speed": 90,
+    "color": "褐",
+    "description": "一天要睡上20小時以上。將爭奪領域的攻擊性全部集中在手臂上。"
   },
   {
     "id": 30,
@@ -297,7 +384,10 @@
     "height": 1.1,
     "hp": 65,
     "attack": 45,
-    "defense": 55
+    "defense": 55,
+    "speed": 45,
+    "color": "白",
+    "description": "喜歡用頭上的角頂球。頭上的角越硬，在同伴中的地位就越高。"
   },
   {
     "id": 31,
@@ -307,7 +397,10 @@
     "height": 2.5,
     "hp": 130,
     "attack": 85,
-    "defense": 80
+    "defense": 80,
+    "speed": 60,
+    "color": "藍",
+    "description": "性情溫和，能理解人類的話語。喜歡搭載人們橫渡湖泊和海洋。"
   },
   {
     "id": 32,
@@ -317,7 +410,10 @@
     "height": 0.3,
     "hp": 35,
     "attack": 40,
-    "defense": 50
+    "defense": 50,
+    "speed": 70,
+    "color": "褐",
+    "description": "會在口袋裡藏各種寶物。守護著自己的寶物，不讓任何人碰觸。"
   },
   {
     "id": 33,
@@ -327,7 +423,10 @@
     "height": 1.1,
     "hp": 30,
     "attack": 45,
-    "defense": 135
+    "defense": 135,
+    "speed": 30,
+    "color": "黃",
+    "description": "只有在太陽很強的時候才會移動。可以將太陽光轉化為能量。"
   },
   {
     "id": 34,
@@ -337,7 +436,10 @@
     "height": 1.8,
     "hp": 41,
     "attack": 64,
-    "defense": 45
+    "defense": 45,
+    "speed": 50,
+    "color": "藍",
+    "description": "存在於水中的幻的寶可夢。擁有變成任何形態的能力。"
   },
   {
     "id": 35,
@@ -347,7 +449,10 @@
     "height": 1.5,
     "hp": 70,
     "attack": 55,
-    "defense": 50
+    "defense": 50,
+    "speed": 65,
+    "color": "白",
+    "description": "翅膀上燃燒著的火焰中散發著火星。在火山噴發時會飛向天空。"
   },
   {
     "id": 36,
@@ -357,7 +462,10 @@
     "height": 0.4,
     "hp": 35,
     "attack": 40,
-    "defense": 100
+    "defense": 100,
+    "speed": 35,
+    "color": "藍",
+    "description": "古代海洋中的寶可夢。用觸手捕捉獵物，殼很堅硬能保護身體。"
   },
   {
     "id": 37,
@@ -367,7 +475,10 @@
     "height": 2.1,
     "hp": 91,
     "attack": 90,
-    "defense": 129
+    "defense": 129,
+    "speed": 108,
+    "color": "灰",
+    "description": "傳說中的寶可夢。用鋼鐵般堅硬的身體和角保護弱小的寶可夢。"
   },
   {
     "id": 38,
@@ -377,37 +488,49 @@
     "height": 0.6,
     "hp": 40,
     "attack": 50,
-    "defense": 40
+    "defense": 40,
+    "speed": 90,
+    "color": "藍",
+    "description": "腹部的漩渦狀花紋會隨著情緒變化而晃動。會用心電感應危險。"
   },
   {
     "id": 39,
     "name": "巨金怪",
-    "type": ["鬼", "岩石"],
-    "weight": 155.0,
-    "height": 1.3,
-    "hp": 55,
-    "attack": 100,
-    "defense": 125
+    "type": ["鋼", "超能力"],
+    "weight": 550.0,
+    "height": 1.6,
+    "hp": 80,
+    "attack": 135,
+    "defense": 130,
+    "speed": 70,
+    "color": "藍",
+    "description": "四隻腦部連結在一起，擁有比超級電腦更強大的運算能力。"
   },
   {
     "id": 40,
     "name": "爆炸磁怪",
     "type": ["電", "鋼"],
-    "weight": 60.0,
+    "weight": 180.0,
     "height": 1.2,
-    "hp": 75,
-    "attack": 120,
-    "defense": 75
+    "hp": 50,
+    "attack": 60,
+    "defense": 95,
+    "speed": 70,
+    "color": "灰",
+    "description": "由三隻小磁怪連接而成。發出強力的磁力波，能讓精密機械停止運作。"
   },
   {
     "id": 41,
     "name": "霸王花",
-    "type": ["草"],
-    "weight": 15.6,
+    "type": ["草", "毒"],
+    "weight": 15.0,
     "height": 1.2,
     "hp": 75,
     "attack": 80,
-    "defense": 85
+    "defense": 85,
+    "speed": 50,
+    "color": "紅",
+    "description": "花瓣越大，毒性就越強。行走時會搖擺身體散布毒粉。"
   },
   {
     "id": 42,
@@ -417,17 +540,23 @@
     "height": 1.0,
     "hp": 50,
     "attack": 60,
-    "defense": 95
+    "defense": 95,
+    "speed": 70,
+    "color": "灰",
+    "description": "三隻小磁怪合體而成。會發出強烈的磁力波干擾電子設備。"
   },
   {
     "id": 43,
     "name": "大鋼蛇",
-    "type": ["鋼", "岩石"],
-    "weight": 380.0,
-    "height": 2.0,
-    "hp": 60,
-    "attack": 60,
-    "defense": 180
+    "type": ["鋼", "地面"],
+    "weight": 400.0,
+    "height": 9.2,
+    "hp": 75,
+    "attack": 85,
+    "defense": 200,
+    "speed": 30,
+    "color": "灰",
+    "description": "身體由鋼鐵組成，比鑽石還要堅硬。居住在地底深處。"
   },
   {
     "id": 44,
@@ -437,7 +566,10 @@
     "height": 2.1,
     "hp": 160,
     "attack": 110,
-    "defense": 65
+    "defense": 65,
+    "speed": 30,
+    "color": "黑",
+    "description": "將什麼都吃的大胃王。睡覺時也在吃東西，吃著吃著就睡著了。"
   },
   {
     "id": 45,
@@ -447,7 +579,10 @@
     "height": 1.4,
     "hp": 75,
     "attack": 90,
-    "defense": 50
+    "defense": 50,
+    "speed": 95,
+    "color": "黑",
+    "description": "很久以前就被視為地獄使者。在血月的夜晚叫聲會讓人毛骨悚然。"
   },
   {
     "id": 46,
@@ -457,17 +592,23 @@
     "height": 1.4,
     "hp": 90,
     "attack": 75,
-    "defense": 85
+    "defense": 85,
+    "speed": 45,
+    "color": "黃",
+    "description": "尾巴的尖端在發出強烈電流時會發光。電力大到可以擊落雷雲。"
   },
   {
     "id": 47,
-    "name": "暴飛龍",
+    "name": "暴飞龍",
     "type": ["龍", "飛行"],
     "weight": 102.6,
     "height": 1.5,
     "hp": 95,
     "attack": 135,
-    "defense": 80
+    "defense": 80,
+    "speed": 100,
+    "color": "藍",
+    "description": "會為了尋找強烈的對手而不斷飛翔。為了能飛行，全身都是肌肉。"
   },
   {
     "id": 48,
@@ -477,7 +618,10 @@
     "height": 6.2,
     "hp": 95,
     "attack": 60,
-    "defense": 79
+    "defense": 79,
+    "speed": 81,
+    "color": "粉紅",
+    "description": "被譽為最美麗的寶可夢。任何憤怒和敵意的心情都能平息。"
   },
   {
     "id": 49,
@@ -487,7 +631,10 @@
     "height": 1.2,
     "hp": 70,
     "attack": 110,
-    "defense": 70
+    "defense": 70,
+    "speed": 90,
+    "color": "藍",
+    "description": "能讀取人類的情感。一旦相信了某個訓練家，就絕不會背叛。"
   },
   {
     "id": 50,
@@ -497,7 +644,10 @@
     "height": 1.0,
     "hp": 95,
     "attack": 65,
-    "defense": 65
+    "defense": 65,
+    "speed": 60,
+    "color": "粉紅",
+    "description": "用細帶狀的觸手纏繞在訓練家的手臂上。能感受對方的心情。"
   },
   {
     "id": 51,
@@ -507,6 +657,660 @@
     "height": 1.5,
     "hp": 72,
     "attack": 95,
-    "defense": 67
+    "defense": 67,
+    "speed": 122,
+    "color": "藍",
+    "description": "動作迅速如忍者。用水形成的手裡劍切裂敵人。"
+  },
+  {
+    "id": 52,
+    "name": "超音蝠",
+    "type": ["毒", "飛行"],
+    "weight": 7.5,
+    "height": 0.8,
+    "hp": 40,
+    "attack": 45,
+    "defense": 35,
+    "speed": 55,
+    "color": "紫",
+    "description": "由於牙齒一直在成長，必須不斷吃硬物來磨掉。"
+  },
+  {
+    "id": 53,
+    "name": "尼多王",
+    "type": ["毒", "地面"],
+    "weight": 62.0,
+    "height": 1.4,
+    "hp": 81,
+    "attack": 102,
+    "defense": 77,
+    "speed": 85,
+    "color": "紫",
+    "description": "用堅硬的角撞擊敵人。角裡含有劇毒，被刺中就會立刻中毒。"
+  },
+  {
+    "id": 54,
+    "name": "尼多后",
+    "type": ["毒", "地面"],
+    "weight": 60.0,
+    "height": 1.3,
+    "hp": 90,
+    "attack": 92,
+    "defense": 87,
+    "speed": 76,
+    "color": "藍",
+    "description": "全身都被堅硬的針刺覆蓋。為了保護幼仔，會勇敢地戰鬥。"
+  },
+  {
+    "id": 55,
+    "name": "可達鴨",
+    "type": ["水"],
+    "weight": 19.6,
+    "height": 0.8,
+    "hp": 50,
+    "attack": 52,
+    "defense": 48,
+    "speed": 55,
+    "color": "黃",
+    "description": "總是抱著頭痛的煩惱。當疼痛加劇時，會使用不可思議的力量。"
+  },
+  {
+    "id": 56,
+    "name": "哥達鴨",
+    "type": ["水"],
+    "weight": 76.6,
+    "height": 1.7,
+    "hp": 80,
+    "attack": 82,
+    "defense": 78,
+    "speed": 85,
+    "color": "藍",
+    "description": "擁有優雅的游泳姿態。用強大的超能力操控對方的心靈。"
+  },
+  {
+    "id": 57,
+    "name": "火爆猴",
+    "type": ["格鬥"],
+    "weight": 32.0,
+    "height": 1.0,
+    "hp": 65,
+    "attack": 105,
+    "defense": 60,
+    "speed": 95,
+    "color": "褐",
+    "description": "擁有爆裂般的脾氣。一旦發怒就會疾如迅雷般地暴走。"
+  },
+  {
+    "id": 58,
+    "name": "風速狗",
+    "type": ["火"],
+    "weight": 155.0,
+    "height": 1.9,
+    "hp": 90,
+    "attack": 110,
+    "defense": 80,
+    "speed": 95,
+    "color": "橙",
+    "description": "跑起來的模樣非常優美，讓許多人為之著迷。能跑一整天都不知疲倦。"
+  },
+  {
+    "id": 59,
+    "name": "蚊香泳士",
+    "type": ["水", "格鬥"],
+    "weight": 54.0,
+    "height": 1.3,
+    "hp": 90,
+    "attack": 95,
+    "defense": 95,
+    "speed": 70,
+    "color": "藍",
+    "description": "擁有堅韌的身體和強有力的手臂。即使在太平洋中也能不停遊泳。"
+  },
+  {
+    "id": 60,
+    "name": "食夢夢",
+    "type": ["超能力"],
+    "weight": 32.4,
+    "height": 1.0,
+    "hp": 85,
+    "attack": 73,
+    "defense": 70,
+    "speed": 67,
+    "color": "黃",
+    "description": "會吃掉人類做的夢。根據夢的內容，有時它做的夢會是惡夢。"
+  },
+  {
+    "id": 61,
+    "name": "怪力",
+    "type": ["格鬥"],
+    "weight": 130.0,
+    "height": 1.6,
+    "hp": 90,
+    "attack": 130,
+    "defense": 80,
+    "speed": 55,
+    "color": "灰",
+    "description": "擁有發達的肌肉，不管多重的東西都能輕鬆舉起。"
+  },
+  {
+    "id": 62,
+    "name": "喇叭芽",
+    "type": ["草", "毒"],
+    "weight": 4.0,
+    "height": 0.7,
+    "hp": 50,
+    "attack": 75,
+    "defense": 35,
+    "speed": 40,
+    "color": "綠",
+    "description": "細小的頭部和粗壯的身體形成強烈對比。會射出酸液溶解獵物。"
+  },
+  {
+    "id": 63,
+    "name": "瑪瑙水母",
+    "type": ["水", "毒"],
+    "weight": 55.0,
+    "height": 1.6,
+    "hp": 80,
+    "attack": 70,
+    "defense": 65,
+    "speed": 100,
+    "color": "藍",
+    "description": "身體是由水組成的。如果中了牠的毒，就會漸漸失去知覺。"
+  },
+  {
+    "id": 64,
+    "name": "小磁怪",
+    "type": ["電", "鋼"],
+    "weight": 6.0,
+    "height": 0.3,
+    "hp": 25,
+    "attack": 35,
+    "defense": 70,
+    "speed": 45,
+    "color": "灰",
+    "description": "可以利用電磁力在空中漂浮。在太陽黑子多的時候會出現。"
+  },
+  {
+    "id": 65,
+    "name": "大蔥鴨",
+    "type": ["一般", "飛行"],
+    "weight": 15.0,
+    "height": 0.8,
+    "hp": 52,
+    "attack": 90,
+    "defense": 55,
+    "speed": 60,
+    "color": "褐",
+    "description": "綠色的蔥葉內包含有各種精華成分。在危險時會用蔥葉攻擊敵人。"
+  },
+  {
+    "id": 66,
+    "name": "小海獅",
+    "type": ["水"],
+    "weight": 90.0,
+    "height": 1.1,
+    "hp": 65,
+    "attack": 45,
+    "defense": 55,
+    "speed": 45,
+    "color": "白",
+    "description": "在海中游泳比人類還要快。會用白色的牙齒撞破冰山。"
+  },
+  {
+    "id": 67,
+    "name": "臭泥",
+    "type": ["毒"],
+    "weight": 30.0,
+    "height": 0.9,
+    "hp": 80,
+    "attack": 80,
+    "defense": 50,
+    "speed": 25,
+    "color": "紫",
+    "description": "身體是由污濁的泥巴組成。讓人吃驚的是，牠的臭氣竟然也有人喜歡。"
+  },
+  {
+    "id": 68,
+    "name": "大舌頭",
+    "type": ["一般"],
+    "weight": 65.5,
+    "height": 1.2,
+    "hp": 90,
+    "attack": 55,
+    "defense": 75,
+    "speed": 30,
+    "color": "粉紅",
+    "description": "舌頭的長度是身體的兩倍。舌頭上有黏膩的口水，任何東西都能黏住。"
+  },
+  {
+    "id": 69,
+    "name": "鐵甲犀牛",
+    "type": ["地面", "岩石"],
+    "weight": 115.0,
+    "height": 1.0,
+    "hp": 80,
+    "attack": 85,
+    "defense": 95,
+    "speed": 25,
+    "color": "灰",
+    "description": "用如象般巨大力量的角來撞擊。連高樓大廈也能撞倒。"
+  },
+  {
+    "id": 70,
+    "name": "3D龍",
+    "type": ["一般"],
+    "weight": 36.5,
+    "height": 0.8,
+    "hp": 65,
+    "attack": 60,
+    "defense": 70,
+    "speed": 40,
+    "color": "粉紅",
+    "description": "第一隻成功以電腦程式製作的人工寶可夢。只能使用程式中的動作。"
+  },
+  {
+    "id": 71,
+    "name": "化石翼龍",
+    "type": ["岩石", "飛行"],
+    "weight": 59.0,
+    "height": 1.8,
+    "hp": 80,
+    "attack": 105,
+    "defense": 65,
+    "speed": 130,
+    "color": "紫",
+    "description": "古代的陸空之王。似乎一旦發出叫聲，龐大的獵物也會嚇得逃跑。"
+  },
+  {
+    "id": 72,
+    "name": "急凍鳥",
+    "type": ["冰", "飛行"],
+    "weight": 55.4,
+    "height": 1.7,
+    "hp": 90,
+    "attack": 85,
+    "defense": 100,
+    "speed": 85,
+    "color": "藍",
+    "description": "傳說中的寶可夢之一。據說牠會在雪山中救助迷路的登山者。"
+  },
+  {
+    "id": 73,
+    "name": "閃電鳥",
+    "type": ["電", "飛行"],
+    "weight": 52.6,
+    "height": 1.6,
+    "hp": 90,
+    "attack": 90,
+    "defense": 85,
+    "speed": 100,
+    "color": "黃",
+    "description": "傳說中的寶可夢之一。據說牠停留在雷雲中，可以自由操縱雷電。"
+  },
+  {
+    "id": 74,
+    "name": "火焰鳥",
+    "type": ["火", "飛行"],
+    "weight": 60.0,
+    "height": 2.0,
+    "hp": 90,
+    "attack": 100,
+    "defense": 90,
+    "speed": 90,
+    "color": "黃",
+    "description": "傳說中的寶可夢之一。據說牠的羽毛燃燒著美麗的火焰。"
+  },
+  {
+    "id": 75,
+    "name": "超夢",
+    "type": ["超能力"],
+    "weight": 122.0,
+    "height": 2.0,
+    "hp": 106,
+    "attack": 110,
+    "defense": 90,
+    "speed": 130,
+    "color": "紫",
+    "description": "為了戰鬥而被人工改造的寶可夢。擁有冷酷的性格和無比的戰鬥能力。"
+  },
+  {
+    "id": 76,
+    "name": "雷丘",
+    "type": ["電"],
+    "weight": 30.0,
+    "height": 0.8,
+    "hp": 60,
+    "attack": 90,
+    "defense": 55,
+    "speed": 110,
+    "color": "黃",
+    "description": "其電力強大到可以擊落雷電。電力太強的話，連自己都會麻痺。"
+  },
+  {
+    "id": 77,
+    "name": "水箭龜",
+    "type": ["水"],
+    "weight": 85.5,
+    "height": 1.6,
+    "hp": 79,
+    "attack": 83,
+    "defense": 100,
+    "speed": 78,
+    "color": "藍",
+    "description": "背上的大砲臺射程絕佳，在水中的標的也能準確命中。"
+  },
+  {
+    "id": 78,
+    "name": "噴火龍",
+    "type": ["火", "飛行"],
+    "weight": 90.5,
+    "height": 1.7,
+    "hp": 78,
+    "attack": 84,
+    "defense": 78,
+    "speed": 100,
+    "color": "橙",
+    "description": "翅膀可以載著它在地上1400公尺的高空飛翔。如火焰般的氣息會融化一切。"
+  },
+  {
+    "id": 79,
+    "name": "妙蛙花",
+    "type": ["草", "毒"],
+    "weight": 100.0,
+    "height": 2.0,
+    "hp": 80,
+    "attack": 82,
+    "defense": 83,
+    "speed": 80,
+    "color": "綠",
+    "description": "背上的花朵會發出香甜的香氣，讓人心情愉悅。當情緒高昂時，香氣會變得更濃。"
+  },
+  {
+    "id": 80,
+    "name": "班基拉斯",
+    "type": ["岩石", "惡"],
+    "weight": 202.0,
+    "height": 2.0,
+    "hp": 100,
+    "attack": 134,
+    "defense": 110,
+    "speed": 61,
+    "color": "綠",
+    "description": "擁有無比的破壞力，連山都能把它破壞掉。為了尋找對手而不斷在山中徘徊。"
+  },
+  {
+    "id": 81,
+    "name": "洛奇亞",
+    "type": ["超能力", "飛行"],
+    "weight": 216.0,
+    "height": 5.2,
+    "hp": 106,
+    "attack": 90,
+    "defense": 130,
+    "speed": 110,
+    "color": "白",
+    "description": "傳說中的寶可夢。擁有平息風暴的能力，被稱為海的守護神。"
+  },
+  {
+    "id": 82,
+    "name": "鳳王",
+    "type": ["火", "飛行"],
+    "weight": 199.0,
+    "height": 3.8,
+    "hp": 106,
+    "attack": 130,
+    "defense": 90,
+    "speed": 90,
+    "color": "紅",
+    "description": "傳說中的寶可夢。羽毛以七色彩虹發光。據說看到牠的人可以得到永遠的幸福。"
+  },
+  {
+    "id": 83,
+    "name": "雪拉比",
+    "type": ["超能力", "草"],
+    "weight": 5.0,
+    "height": 0.6,
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "speed": 100,
+    "color": "綠",
+    "description": "只有心地純潔的人才能看到牠。擁有跨越時空旅行的能力。"
+  },
+  {
+    "id": 84,
+    "name": "裂空座",
+    "type": ["龍", "飛行"],
+    "weight": 206.5,
+    "height": 7.0,
+    "hp": 105,
+    "attack": 150,
+    "defense": 90,
+    "speed": 95,
+    "color": "綠",
+    "description": "終日飛翔在大氣層的傳說寶可夢。對於侵犯自己領空的存在絕不寬容。"
+  },
+  {
+    "id": 85,
+    "name": "固拉多",
+    "type": ["地面"],
+    "weight": 950.0,
+    "height": 3.5,
+    "hp": 100,
+    "attack": 150,
+    "defense": 140,
+    "speed": 90,
+    "color": "紅",
+    "description": "傳說中創造大地的寶可夢。擁有擴大大陸的能力，現在陷入了沉睡。"
+  },
+  {
+    "id": 86,
+    "name": "海皇牙",
+    "type": ["水"],
+    "weight": 352.0,
+    "height": 4.5,
+    "hp": 100,
+    "attack": 100,
+    "defense": 90,
+    "speed": 90,
+    "color": "藍",
+    "description": "傳說中創造大海的寶可夢。擁有擴大海洋的能力，現在陷入了沉睡。"
+  },
+  {
+    "id": 87,
+    "name": "拉帝亞斯",
+    "type": ["龍", "超能力"],
+    "weight": 40.0,
+    "height": 1.4,
+    "hp": 80,
+    "attack": 80,
+    "defense": 90,
+    "speed": 110,
+    "color": "紅",
+    "description": "性情聰明且善解人意。能看到人類所看到的影像，作為心的投射。"
+  },
+  {
+    "id": 88,
+    "name": "拉帝歐斯",
+    "type": ["龍", "超能力"],
+    "weight": 60.0,
+    "height": 2.0,
+    "hp": 80,
+    "attack": 90,
+    "defense": 80,
+    "speed": 110,
+    "color": "藍",
+    "description": "心智過人，能理解人類話語。會用玻璃的羽毛包覆全身來隱藏蹤影。"
+  },
+  {
+    "id": 89,
+    "name": "基拉祈",
+    "type": ["鋼", "超能力"],
+    "weight": 1.0,
+    "height": 0.3,
+    "hp": 100,
+    "attack": 100,
+    "defense": 100,
+    "speed": 100,
+    "color": "黃",
+    "description": "傳說中只有在人類沉睡時才會對純潔心靈的人現身。"
+  },
+  {
+    "id": 90,
+    "name": "代歐奇希斯",
+    "type": ["超能力"],
+    "weight": 60.8,
+    "height": 1.7,
+    "hp": 50,
+    "attack": 150,
+    "defense": 50,
+    "speed": 150,
+    "color": "紅",
+    "description": "宇宙中誕生的寶可夢。能改變形態，擁有極高的智能。"
+  },
+  {
+    "id": 91,
+    "name": "土台龜",
+    "type": ["草"],
+    "weight": 97.0,
+    "height": 1.1,
+    "hp": 75,
+    "attack": 89,
+    "defense": 85,
+    "speed": 56,
+    "color": "綠",
+    "description": "河川湖泊附近生長的大型樹木就是牠的糧食。背上的森林越豐富，證明牠越健康。"
+  },
+  {
+    "id": 92,
+    "name": "火焰雞",
+    "type": ["火", "格鬥"],
+    "weight": 52.0,
+    "height": 1.9,
+    "hp": 80,
+    "attack": 120,
+    "defense": 70,
+    "speed": 80,
+    "color": "紅",
+    "description": "擁有可以清晰越過任何高山的強健雙腿。每數年會燃燒舊羽毛長出新羽毛。"
+  },
+  {
+    "id": 93,
+    "name": "巨沼怪",
+    "type": ["水", "地面"],
+    "weight": 81.9,
+    "height": 1.5,
+    "hp": 100,
+    "attack": 110,
+    "defense": 90,
+    "speed": 60,
+    "color": "藍",
+    "description": "粗壯的手臂力大無窮，能把一噸重的巨岩輕鬆舉起來丟得老遠。"
+  },
+  {
+    "id": 94,
+    "name": "沙奈朵",
+    "type": ["超能力", "妖精"],
+    "weight": 48.4,
+    "height": 1.6,
+    "hp": 68,
+    "attack": 65,
+    "defense": 65,
+    "speed": 80,
+    "color": "白",
+    "description": "為了保護訓練家，會用盡全力發動超能力。擁有預知未來的能力。"
+  },
+  {
+    "id": 95,
+    "name": "波士可多拉",
+    "type": ["鋼", "岩石"],
+    "weight": 360.0,
+    "height": 2.1,
+    "hp": 70,
+    "attack": 110,
+    "defense": 180,
+    "speed": 50,
+    "color": "藍",
+    "description": "全身都被堅硬的裝甲覆蓋著。即使傾盡全力放出破壞光線，裝甲也不會出現一道裂紋。"
+  },
+  {
+    "id": 96,
+    "name": "七夕青鳥",
+    "type": ["龍", "飛行"],
+    "weight": 20.6,
+    "height": 1.1,
+    "hp": 75,
+    "attack": 70,
+    "defense": 90,
+    "speed": 80,
+    "color": "藍",
+    "description": "擁有優美的歌聲，能讓聽到的人心情愉悅。羽毛輕柔如棉花。"
+  },
+  {
+    "id": 97,
+    "name": "觸手百合",
+    "type": ["岩石", "草"],
+    "weight": 23.8,
+    "height": 1.5,
+    "hp": 66,
+    "attack": 41,
+    "defense": 77,
+    "speed": 23,
+    "color": "綠",
+    "description": "生活在大約一億年前的準熱帶海域中。用八隻觸手捕食獵物。"
+  },
+  {
+    "id": 98,
+    "name": "太古羽蟲",
+    "type": ["岩石", "蟲"],
+    "weight": 72.5,
+    "height": 1.4,
+    "hp": 75,
+    "attack": 125,
+    "defense": 100,
+    "speed": 80,
+    "color": "灰",
+    "description": "從化石復活的古代蟲寶可夢。據說在古代天空中飛翔，是蟲與飛行屬性的祖先。"
+  },
+  {
+    "id": 99,
+    "name": "愛心魚",
+    "type": ["水"],
+    "weight": 8.7,
+    "height": 0.6,
+    "hp": 43,
+    "attack": 30,
+    "defense": 55,
+    "speed": 97,
+    "color": "粉",
+    "description": "住在淺海珊瑚礁的寶可夢。到了繁殖期時身上的顏色會變得更加鮮豔。"
+  },
+  {
+    "id": 100,
+    "name": "鯰魚王",
+    "type": ["水", "地面"],
+    "weight": 23.6,
+    "height": 0.9,
+    "hp": 110,
+    "attack": 78,
+    "defense": 73,
+    "speed": 60,
+    "color": "藍",
+    "description": "生活在沼澤地帶的寶可夢。用敏感的鬍鬚探測周圍的狀況，脾氣溫和但領域意識很強。"
+  },
+  {
+    "id": 101,
+    "name": "飛天螳螂",
+    "type": ["蟲", "飛行"],
+    "weight": 56.0,
+    "height": 1.5,
+    "hp": 70,
+    "attack": 110,
+    "defense": 80,
+    "speed": 105,
+    "color": "綠",
+    "description": "快如閃電般的忍者寶可夢。銳利的鐮刀狀前爪可以切開任何東西，動作敏捷如風。"
   }
 ]
+
