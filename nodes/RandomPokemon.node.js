@@ -10,7 +10,7 @@ const shuffleArray = (array) => {
 class RandomPokemon {
   constructor() {
     this.description = {
-      displayName: "Random Pokémon",
+      displayName: "Random Pokemon",
       name: "randomPokemon",
       group: ["transform"],
       version: 1,
@@ -86,21 +86,19 @@ class RandomPokemon {
     const num = this.getNodeParameter("numberOfPokemon", 0)
     const typeFilter = this.getNodeParameter("typeFilter", 0)
     const colorFilter = this.getNodeParameter("colorFilter", 0)
-    
+
     let availablePokemon = [...pokemonData]
 
     // 套用屬性篩選
     if (typeFilter && typeFilter.length > 0 && !typeFilter.includes("")) {
-      availablePokemon = availablePokemon.filter(pokemon =>
-        pokemon.type && pokemon.type.some(type => typeFilter.includes(type))
+      availablePokemon = availablePokemon.filter(
+        (pokemon) => pokemon.type && pokemon.type.some((type) => typeFilter.includes(type)),
       )
     }
 
     // 套用顏色篩選
     if (colorFilter && colorFilter.length > 0 && !colorFilter.includes("")) {
-      availablePokemon = availablePokemon.filter(pokemon =>
-        pokemon.color && colorFilter.includes(pokemon.color)
-      )
+      availablePokemon = availablePokemon.filter((pokemon) => pokemon.color && colorFilter.includes(pokemon.color))
     }
 
     shuffleArray(availablePokemon)
